@@ -1,0 +1,86 @@
+* {
+    padding:0px;
+    margin: 0px;
+}
+.background {
+    background-color: antiquewhite;
+    
+}
+#Container {
+    margin:200px 200px 20px 350px;
+    padding: 20px 20px 0 20px;
+    background-color:white;
+    width: 700px;
+    border:1px solid white;
+    border-radius: 12px;
+}
+img {
+    width:100%;
+    height:50%;
+    object-fit: fill;
+}
+h1 {
+    font-size: 50px;
+    font-family:arial;
+}
+.Preparation{
+    width:95%;
+    background-color: rgba(255, 105, 180, 0.064);
+    color:purple;
+    height:120px;
+    padding:20px;
+}
+.list-1{
+    margin:0 0 0 20px;
+    font-size:20px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    color:brown;
+}
+.list-2{
+    margin:0 0 0 20px;
+    font-size:20px;
+}
+.ingredients{
+        width:95%;
+        height:220px;
+        padding:20px;
+    
+}
+#instructions{
+        width:95%;
+        height:430px;
+        padding:20px;
+}
+ol{
+    margin:0 0 0 20px;
+    font-size:20px;
+}
+span{
+    font-weight: bold;
+    color: rgb(51, 50, 50);
+}
+table{
+    font-size: 20px;
+    width:100%;
+    padding:0 0 0 20px;
+}
+tr{
+    margin:20px;
+}
+.num{
+    color:brown;
+    font-weight: bold;
+}
+td{
+    font-weight: 525;
+}
+.nutrition{
+    width:95%;
+    height:200px;
+    padding:20px;
+}
+
